@@ -1,8 +1,6 @@
 '''
 Update Codigo_1.py
 
-
-
 '''
 
 lazy import os
