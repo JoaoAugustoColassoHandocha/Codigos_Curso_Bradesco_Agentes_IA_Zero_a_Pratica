@@ -1,5 +1,5 @@
 '''
-Código criado com IA Copiloto
+Código criado com GitHub Copilot
 
 '''
 
