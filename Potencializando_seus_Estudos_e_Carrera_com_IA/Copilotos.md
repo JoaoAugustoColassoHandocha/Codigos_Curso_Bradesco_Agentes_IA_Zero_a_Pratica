@@ -45,3 +45,8 @@ Reescreva este trecho de forma mais clara e motivadora.
 ```
 
 Ao final, salve o documento. Você vai usar o conteúdo dele na próxima prática.
+
+- [Google Docs com Gemini](https://docs.google.com)
+- [Microsoft Word com Copilot](https://www.microsoft.com/microsoft-365/copilot)
+- [Notion AI](https://www.notion.com/product/ai)
+- [GitHub Copilot](https://github.com/features/copilot) (para quem programa, dentro de uma IDE como o [VSCode](https://code.visualstudio.com))
