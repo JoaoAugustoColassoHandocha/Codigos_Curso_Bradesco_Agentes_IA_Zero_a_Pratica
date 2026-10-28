@@ -24,3 +24,8 @@ Use linguagem simples, como se fosse uma conversa com um amigo.
 ```
 
 Ao final, copie a resposta para um bloco de notas. A área escolhida e os cinco tópicos iniciais vão ser o ponto de partida da próxima prática.
+
+- [ChatGPT](https://chat.openai.com)
+- [Claude](https://claude.ai)
+- [Microsoft Copilot](https://copilot.microsoft.com)
+- [Gemini](https://gemini.google.com)
