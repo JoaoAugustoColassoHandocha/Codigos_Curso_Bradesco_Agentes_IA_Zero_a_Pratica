@@ -1,0 +1,17 @@
+1 - UX Research e Design de Experiência do Usuário (User Experience): É a área que estuda o comportamento, as dores e as necessidades dos usuários para criar produtos digitais fáceis e agradáveis de usar. Combina perfeitamente com a escuta ativa, a empatia e a capacidade de análise que você desenvolveu na Psicologia.
+
+2 - Gestão de Produtos (Product Management): Envolve entender o problema do cliente, definir prioridades e guiar o desenvolvimento de um produto tecnológico junto com os times de engenharia e design. Pede muita comunicação, empatia e visão estratégica para alinhar expectativas humanas e técnicas.
+
+3 - Análise de Dados / People Analytics: Foca em coletar, organizar e interpretar dados para responder a perguntas de negócio (ou comportamentais). Embora use um pouco mais de lógica e ferramentas, a base é sempre contar uma história através dos dados e entender o que eles significam para as pessoas.
+
+------------------
+
+1 - Fundamentos de UX (User Experience): Entender o que é a experiência do usuário, a história da área e como ela resolve problemas reais do dia a dia.
+
+2 - Métodos de Pesquisa com Usuários: Aprender a fazer entrevistas, testes de usabilidade e pesquisas qualitativas (sua zona de conforto!).
+
+3 - Empatia e Mapeamento da Jornada: Estudar como criar personas (representações dos usuários) e o mapa de jornada para visualizar os sentimentos e passos de quem usa um produto.
+
+4 - Arquitetura da Informação: Compreender como organizar conteúdos e fluxos de telas de forma lógica e intuitiva para o cérebro humano processar facilmente.
+
+5 - Introdução ao Design Thinking: Conhecer a metodologia de resolução de problemas focada no ser humano, que vai desde a imersão até a ideação e testes.
