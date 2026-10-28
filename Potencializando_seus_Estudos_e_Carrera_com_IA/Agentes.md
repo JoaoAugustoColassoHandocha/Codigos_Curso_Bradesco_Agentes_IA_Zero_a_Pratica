@@ -38,3 +38,10 @@ Antes de criar, me explique brevemente sua estrutura. Depois execute.
 Abra os arquivos um a um e leia com calma. Essa revisão é onde o aprendizado realmente acontece. Você vai notar decisões que faria diferente, partes que quer ajustar, e isso é exatamente o seu papel ao trabalhar com um agente: validar e refinar.
 
 No final, observe a jornada completa. Você começou com uma vontade de aprender, conversou para decidir, escreveu para estruturar, e agora tem um workspace pronto para começar.
+
+- [Google Antigravity](https://antigravity.google)
+- [OpenCode](https://opencode.ai)
+- [OpenClaw](https://openclaw.ai)
+- [Claude Code](https://code.claude.com/docs)
+- [Cursor](https://cursor.com)
+- [Ollama](https://ollama.com)
