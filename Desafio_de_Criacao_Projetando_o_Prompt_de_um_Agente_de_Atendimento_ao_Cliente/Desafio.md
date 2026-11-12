@@ -246,3 +246,9 @@ Salve seu Prompt final em um arquivo
 ```
 .txt
 ```
+
+Ou
+
+```
+.md
+```
