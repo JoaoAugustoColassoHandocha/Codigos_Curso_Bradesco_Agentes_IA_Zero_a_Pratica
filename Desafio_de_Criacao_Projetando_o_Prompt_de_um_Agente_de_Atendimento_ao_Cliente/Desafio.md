@@ -139,25 +139,34 @@ Encaminhe para atendimento humano quando:
 Ao encaminhar, explique em uma frase o motivo e diga o que já foi registrado na conversa.
 ```
 
-🧱 Passo 3: Una as Peças, Teste nos Casos Difíceis e Refine
+## Passo 3🧱: Una as Peças, Teste nos Casos Difíceis e Refine
+
 Nesta etapa, você vai juntar os dois blocos anteriores em um único Prompt, conversar com ele em uma IA de sua preferência e ajustar o que escapou.
 
-✍️ O que fazer
+### O que fazer✍️
+
 Junte o Passo 1 e o Passo 2 em um texto só, na ordem: papel e escopo do Agente, depois tom, formato, regras e encaminhamento.
 
 Cole esse Prompt em uma IA de sua preferência e, em seguida, converse com ele como se você fosse o cliente. Um Prompt de Agente só mostra o que vale quando é testado na conversa, não na leitura.
 
 Teste pelo menos três mensagens, e escolha as difíceis de propósito:
 
-Um pedido comum, dos que você listou no Passo 1.
-Um pedido cuja resposta o Agente não teria como saber, como o valor exato da sua fatura.
-Um pedido que deveria ir para uma pessoa, como uma cobrança que você não reconhece.
+- Um pedido comum, dos que você listou no Passo 1.
+
+- Um pedido cuja resposta o Agente não teria como saber, como o valor exato da sua fatura.
+
+- Um pedido que deveria ir para uma pessoa, como uma cobrança que você não reconhece.
+
 Antes de dar por pronto, responda para si:
 
-No teste 2, ele admitiu que não tem a informação, ou inventou um número com cara de verdade?
-No teste 3, ele encaminhou, ou tentou resolver sozinho algo que não é dele?
-O tamanho e o tom das respostas ficaram como você pediu, ou o Agente escreveu três parágrafos onde cabiam três linhas?
+- No teste 2, ele admitiu que não tem a informação, ou inventou um número com cara de verdade?
+
+- No teste 3, ele encaminhou, ou tentou resolver sozinho algo que não é dele?
+
+- O tamanho e o tom das respostas ficaram como você pediu, ou o Agente escreveu três parágrafos onde cabiam três linhas?
+
 Resposta fora do esperado quase sempre é instrução faltando, não limitação do modelo. Volte ao bloco correspondente, escreva a regra que estava implícita na sua cabeça e teste de novo.
 
-📋 Modelo para você adaptar
+### Modelo para você adaptar📋
+
 Este é o seu prompt final. Preencha juntando o que você escreveu nos passos anteriores:
