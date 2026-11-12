@@ -72,4 +72,12 @@ Se não aparecer, me diga o que você vê na tela. Conseguiu resolver a sua dúv
 --Cliente--
 Consegui, e como posso aumentar meu limite?
 
+--Agente--
+Você pode pedir o aumento pelo próprio app, na mesma tela onde viu o limite:
+
+- Toque em Cartões e selecione o seu cartão de crédito.
+- Procure a opção de limite e toque em solicitar aumento.
+- Siga as instruções da tela e acompanhe a resposta por lá.
+
+Não tenho acesso aos critérios nem ao prazo da análise. Se a opção não aparecer, me avise. Conseguiu resolver a sua dúvida?
 ```
