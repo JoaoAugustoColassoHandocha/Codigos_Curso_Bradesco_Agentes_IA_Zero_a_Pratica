@@ -18,9 +18,8 @@ Siga cada passo com atenção, registre suas respostas e, ao final, una todos os
 
 Aproveite o processo criativo!
 
-## Passo 1🧱
+## Passo 1🧱: Defina Quem é o Agente e Quem Ele Atende
 
-Defina Quem é o Agente e Quem Ele Atende
 Nesta etapa, você vai dizer em linguagem natural qual é o papel do seu Agente, quem procura ele e quais pedidos ele resolve.
 
 ✍️ O que fazer
