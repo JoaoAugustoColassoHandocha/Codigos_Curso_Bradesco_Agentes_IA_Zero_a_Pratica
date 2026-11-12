@@ -170,3 +170,6 @@ Resposta fora do esperado quase sempre é instrução faltando, não limitação
 ### Modelo para você adaptar📋
 
 Este é o seu prompt final. Preencha juntando o que você escreveu nos passos anteriores:
+
+```
+```
