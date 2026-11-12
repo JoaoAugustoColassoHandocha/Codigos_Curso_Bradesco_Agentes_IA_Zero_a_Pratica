@@ -54,7 +54,7 @@ Qual é a sua dúvida?
 
 #
 
-# Pergunta feita como cliente
+# Chat com o cliente
 
 ```
 --Cliente--
