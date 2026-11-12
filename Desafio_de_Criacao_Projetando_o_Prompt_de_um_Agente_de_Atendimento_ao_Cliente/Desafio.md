@@ -262,3 +262,21 @@ Salve seu Prompt final em um arquivo **.txt** ou **.md** e publique em um dos ho
 - Crie um repositório público (ex: meus-desafios-criativos)
 
 - Adicione seu arquivo **.md** ao repositório, pelo próprio site em **Add file > Upload files.**
+
+- Abra o arquivo no GitHub e copie a URL da barra de endereços.
+
+- Cole o link no campo de submissão da DIO.
+
+**Opção 3, Notion:**
+
+- Crie uma conta gratuita no Notion, caso ainda não tenha.
+
+- Crie uma página nova, ou importe seu arquivo pelo menu de três pontos, em Importar.
+
+- Com a página aberta, clique em Compartilhar, no topo à direita.
+
+- Publique na web, deixando a página visível para qualquer pessoa com o link.
+
+- Copie o link e cole no campo de submissão da DIO.
+
+**Dica:** copie sempre a URL do arquivo já aberto, não o link da pasta que o contém. E confira o compartilhamento numa aba anônima antes de enviar: se a página abrir sem pedir login, o link está válido.
