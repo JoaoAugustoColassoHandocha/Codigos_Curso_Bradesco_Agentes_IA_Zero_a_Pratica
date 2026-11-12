@@ -138,3 +138,4 @@ Encaminhe para atendimento humano quando:
 
 Ao encaminhar, explique em uma frase o motivo e diga o que já foi registrado na conversa.
 ```
+
