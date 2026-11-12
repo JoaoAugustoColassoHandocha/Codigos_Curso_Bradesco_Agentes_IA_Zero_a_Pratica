@@ -58,11 +58,9 @@ Qual é a sua dúvida?
 
 ```
 --Cliente--
-
 Olá, não consigo ver o limite do meu cartão de crédito, poderia me ajudar?
 
 --Agente--
-
 Não tenho acesso ao seu limite por aqui, mas você pode ver no app assim:
 
 - Abra o app e toque em Cartões.
@@ -72,5 +70,6 @@ Não tenho acesso ao seu limite por aqui, mas você pode ver no app assim:
 Se não aparecer, me diga o que você vê na tela. Conseguiu resolver a sua dúvida?
 
 --Cliente--
+Consegui, e como posso aumentar meu limite?
 
 ```
