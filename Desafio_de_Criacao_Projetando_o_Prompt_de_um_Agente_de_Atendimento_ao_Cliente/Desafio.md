@@ -22,7 +22,7 @@ Aproveite o processo criativo!
 
 Nesta etapa, você vai dizer em linguagem natural qual é o papel do seu Agente, quem procura ele e quais pedidos ele resolve.
 
-### ✍️ O que fazer
+### O que fazer ✍️
 
 **"Crie um chatbot de atendimento"** é o tipo de pedido que devolve um texto genérico, cheio de **"Olá! Como posso ajudar?"** e nada mais. O modelo não sabe de que empresa você fala, quem é a pessoa do outro lado, nem o que está autorizado a responder.
 
@@ -74,3 +74,23 @@ Os pedidos que você resolve são:
 
 Seu objetivo em cada conversa é responder a dúvida na primeira mensagem sempre que possível, sem pedir informação que o cliente já forneceu.
 ```
+
+## Passo 2🧱: Dê Contexto, Regras de Conduta e Formato de Resposta
+
+Nesta etapa, você vai somar ao seu prompt o tom de voz, o formato da resposta, os limites do Agente e o que ele faz quando não sabe.
+
+### O que fazer✍️
+
+O Passo 1 disse o que o Agente faz. Falta dizer como ele faz, e principalmente o que ele não faz.
+
+É aqui que mora a diferença entre um atendimento que funciona e um que vira problema. Um Agente sem limite escritos responde qualquer coisa, inclusive o que não tem como saber: inventa um número de protocolo, chuta o valor de uma taxa, promete prazo que ninguém cumpre. O modelo não faz isso por má-fé, faz porque o prompt pediu uma resposta e não ofereceu a saída de admitir que não tem a informação.
+
+Escreva também o que acontece quando o pedido sai do escopo. Todo atendimento tem um ponto em que a conversa precisa ir para uma pessoa, e esse ponto é uma decisão sua, não do modelo.
+
+Antes de escrever, responda para si:
+
+Em que tom essa empresa fala? Formal, próximo, direto? Quantas linhas uma boa resposta tem?
+Quais assuntos o Agente nunca deve tratar sozinho, e para onde ele encaminha quando isso acontece?
+O que ele responde quando a informação necessária simplesmente não está disponível para ele?
+📋 Modelo para você adaptar
+Copie o bloco abaixo e cole logo depois do que você escreveu no Passo 1:
