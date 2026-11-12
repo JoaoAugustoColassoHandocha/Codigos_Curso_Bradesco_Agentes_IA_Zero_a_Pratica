@@ -241,19 +241,7 @@ Repare na última linha do Prompt e na regra de não inventar dado. As duas trat
 
 ### Como entregar seu Desafio☁️
 
-Salve seu Prompt final em um arquivo
-
-```
-.txt
-```
-
-Ou
-
-```
-.md
-```
-
-e publique em um dos hosts aceitos pela DIO. O link precisa estar público, senão a validação recusa.
+Salve seu Prompt final em um arquivo **.txt** ou **.md** e publique em um dos hosts aceitos pela DIO. O link precisa estar público, senão a validação recusa.
 
 **Opção 1, Google Drive (mais simples):**
 
@@ -271,8 +259,4 @@ e publique em um dos hosts aceitos pela DIO. O link precisa estar público, sen�
 
 - Crie uma conta gratuita no GitHub, caso ainda não tenha.
 
-- Crie um repositório público (ex:
-
-```
-meus-desafios-criativos
-```
+- Crie um repositório público (ex: meus-desafios-criativos)
