@@ -26,7 +26,9 @@ Nesta etapa, você vai dizer em linguagem natural qual é o papel do seu Agente,
 
 **"Crie um chatbot de atendimento"** é o tipo de pedido que devolve um texto genérico, cheio de **"Olá! Como posso ajudar?"** e nada mais. O modelo não sabe de que empresa você fala, quem é a pessoa do outro lado, nem o que está autorizado a responder.
 
-Comece nomeando três coisas: o papel do Agente, o público que fala com ele e a lista curta de assuntos que ele cobre. Escolha um cenário que você conheça, pode ser o banco onde você é cliente, a operadora do seu celular ou a loja onde você comprou algo recentemente.
+Comece nomeando três coisas: **o papel do Agente**, **o público que fala com ele** e **a lista curta de assuntos que ele cobre**.
+
+Escolha um cenário que você conheça, pode ser o banco onde você é cliente, a operadora do seu celular ou a loja onde você comprou algo recentemente.
 
 Antes de escrever, responda para si:
 
