@@ -236,3 +236,13 @@ Ao encaminhar, explique em uma frase o motivo e diga o que já foi registrado na
 
 Se faltar alguma informação para você responder com segurança, pergunte antes de responder.
 ```
+
+Repare na última linha do Prompt e na regra de não inventar dado. As duas tratam do mesmo problema: um modelo prefere preencher a lacuna a deixar a pergunta sem resposta. Autorizar a pergunta e proibir a invenção é o que separa um Agente confiável de um que soa confiante e erra.
+
+### Como entregar seu Desafio☁️
+
+Salve seu Prompt final em um arquivo
+
+```
+.txt
+```
