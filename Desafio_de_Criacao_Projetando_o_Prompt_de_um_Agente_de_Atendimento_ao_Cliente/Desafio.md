@@ -32,8 +32,12 @@ Escolha um cenário que você conheça, pode ser o banco onde você é cliente, 
 
 ### Antes de escrever, responda para si:
 
-Que empresa ou serviço esse Agente representa, e em qual canal ele atende? Chat do site, aplicativo, WhatsApp?
-Quem é a pessoa que chega falando com ele, e em que situação? Alguém com pressa, com dúvida simples, com problema já em andamento?
-Quais são os três ou quatro pedidos mais comuns que ele precisa dar conta?
-📋 Modelo para você adaptar
+- Que empresa ou serviço esse Agente representa, e em qual canal ele atende? Chat do site, aplicativo, WhatsApp?
+
+- Quem é a pessoa que chega falando com ele, e em que situação? Alguém com pressa, com dúvida simples, com problema já em andamento?
+
+- Quais são os três ou quatro pedidos mais comuns que ele precisa dar conta?
+
+### Modelo para você adaptar📋:
+
 Copie o bloco abaixo no seu editor de texto e preencha os campos entre colchetes:
