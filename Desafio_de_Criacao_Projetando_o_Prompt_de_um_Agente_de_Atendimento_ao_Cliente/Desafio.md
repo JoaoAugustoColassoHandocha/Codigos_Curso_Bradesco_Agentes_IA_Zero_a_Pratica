@@ -87,10 +87,18 @@ O Passo 1 disse o que o Agente faz. Falta dizer como ele faz, e principalmente o
 
 Escreva também o que acontece quando o pedido sai do escopo. Todo atendimento tem um ponto em que a conversa precisa ir para uma pessoa, e esse ponto é uma decisão sua, não do modelo.
 
-Antes de escrever, responda para si:
+### Antes de escrever, responda para si:
 
-Em que tom essa empresa fala? Formal, próximo, direto? Quantas linhas uma boa resposta tem?
-Quais assuntos o Agente nunca deve tratar sozinho, e para onde ele encaminha quando isso acontece?
-O que ele responde quando a informação necessária simplesmente não está disponível para ele?
-📋 Modelo para você adaptar
+- Em que tom essa empresa fala? Formal, próximo, direto? Quantas linhas uma boa resposta tem?
+
+- Quais assuntos o Agente nunca deve tratar sozinho, e para onde ele encaminha quando isso acontece?
+
+- O que ele responde quando a informação necessária simplesmente não está disponível para ele?
+
+### Modelo para você adaptar📋
+
 Copie o bloco abaixo e cole logo depois do que você escreveu no Passo 1:
+
+```
+
+```
