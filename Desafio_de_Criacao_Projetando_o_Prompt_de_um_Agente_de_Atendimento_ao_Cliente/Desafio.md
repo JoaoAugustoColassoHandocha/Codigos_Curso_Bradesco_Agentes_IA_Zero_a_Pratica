@@ -30,7 +30,7 @@ Comece nomeando três coisas: **o papel do Agente**, **o público que fala com e
 
 Escolha um cenário que você conheça, pode ser o banco onde você é cliente, a operadora do seu celular ou a loja onde você comprou algo recentemente.
 
-Antes de escrever, responda para si:
+### Antes de escrever, responda para si:
 
 Que empresa ou serviço esse Agente representa, e em qual canal ele atende? Chat do site, aplicativo, WhatsApp?
 Quem é a pessoa que chega falando com ele, e em que situação? Alguém com pressa, com dúvida simples, com problema já em andamento?
