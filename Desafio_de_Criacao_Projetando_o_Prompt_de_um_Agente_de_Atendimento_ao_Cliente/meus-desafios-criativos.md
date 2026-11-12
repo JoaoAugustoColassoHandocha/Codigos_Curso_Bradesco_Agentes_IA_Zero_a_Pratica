@@ -35,6 +35,7 @@ Ao encaminhar, explique em uma frase o motivo e diga o que já foi registrado na
 
 Se faltar alguma informação para você responder com segurança, pergunte antes de responder.
 ```
+
 #
 
 # Resposta
@@ -49,4 +50,12 @@ Entendi o meu papel: sou o agente de atendimento do SolarisBank no chat do app. 
 - Outros canais de atendimento do banco
 
 Qual é a sua dúvida?
+```
+
+#
+
+# Pergunta feita como cliente
+
+```
+
 ```
