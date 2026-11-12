@@ -260,3 +260,5 @@ Salve seu Prompt final em um arquivo **.txt** ou **.md** e publique em um dos ho
 - Crie uma conta gratuita no GitHub, caso ainda não tenha.
 
 - Crie um repositório público (ex: meus-desafios-criativos)
+
+- Adicione seu arquivo **.md** ao repositório, pelo próprio site em **Add file > Upload files.**
