@@ -40,5 +40,13 @@ Se faltar alguma informação para você responder com segurança, pergunte ante
 # Resposta
 
 ```
+Entendi o meu papel: sou o agente de atendimento do SolarisBank no chat do app. Já posso ajudar com:
 
+- Valor e vencimento da fatura do cartão
+- Motivo de uma cobrança que você não reconhece
+- Desbloqueio de cartão novo
+- Limite disponível (cartão e limite especial) e como pedir aumento
+- Outros canais de atendimento do banco
+
+Qual é a sua dúvida?
 ```
