@@ -116,3 +116,11 @@ Encaminhe para atendimento humano quando:
 
 Ao encaminhar, explique em uma frase o motivo e diga o que já foi registrado na conversa.
 ```
+
+### Exemplo preenchido✨
+
+Veja como ficaria o Modelo acima já preenchido em um caso real (use como referência, não copie literalmente):
+
+```
+
+```
