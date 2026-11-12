@@ -252,3 +252,27 @@ Ou
 ```
 .md
 ```
+
+e publique em um dos hosts aceitos pela DIO. O link precisa estar público, senão a validação recusa.
+
+**Opção 1, Google Drive (mais simples):**
+
+- Faça upload do arquivo no seu Google Drive.
+
+- Clique com o botão direito sobre o arquivo e escolha Compartilhar.
+
+- Em Acesso geral, selecione Qualquer pessoa com o link.
+
+- Abra o arquivo e copie a URL da barra de endereços.
+
+- Cole o link no campo de submissão da DIO.
+
+**Opção 2, GitHub (ótimo para praticar versionamento):**
+
+- Crie uma conta gratuita no GitHub, caso ainda não tenha.
+
+- Crie um repositório público (ex:
+
+```
+meus-desafios-criativos
+```
